@@ -248,5 +248,6 @@ module.exports = {
 	'YEM': createUrl('commons/8/89/Flag_of_Yemen.svg'),
 	'ZAF': createUrl('commons/a/af/Flag_of_South_Africa.svg'),
 	'ZMB': createUrl('commons/0/06/Flag_of_Zambia.svg'),
-	'ZWE': createUrl('commons/6/6a/Flag_of_Zimbabwe.svg')
+	'ZWE': createUrl('commons/6/6a/Flag_of_Zimbabwe.svg'),
+	'EUR': createUrl("commons/b/b7/Flag_of_Europe.svg")
 };

@@ -257,5 +257,6 @@ module.exports = [
 	new CountryData("Western Sahara", "Western Saharan", "EH", "ESH"),
 	new CountryData("Yemen", "Yemeni", "YE", "YEM"),
 	new CountryData("Zambia", "Zambian", "ZM", "ZMB"),
-	new CountryData("Zimbabwe", "Zimbabwean", "ZW", "ZWE")
+	new CountryData("Zimbabwe", "Zimbabwean", "ZW", "ZWE"),
+	new CountryData("Europe", "Europe", "EU", "EUR")
 ];
